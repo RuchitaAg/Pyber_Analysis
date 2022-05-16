@@ -26,7 +26,6 @@ It was an interesting analysis and it helped uncover several data-points and tre
 
 ![image](https://user-images.githubusercontent.com/102870991/168534267-1eaa7c58-48a6-4673-86ea-19706229012a.png)
 
-
 From below chart it appears that the trend of fares charged across the year remains same in Rutral areas while some spike can be seen for Urban cities between mid-feb to mid-march.
 
 ![image](https://user-images.githubusercontent.com/102870991/168534401-ac2da7d2-81a4-47f7-b1af-0389a4b62075.png)
